@@ -1,5 +1,5 @@
 basic.forever(function () {
-    THK.モーター番号_角度(0, 50)
+    THK.モーター番号_角度(0, 90)
 })
 basic.forever(function () {
 	
